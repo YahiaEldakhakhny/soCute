@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 // CLASS TO REPRESENT A SINGLE NODE
 class Node {
